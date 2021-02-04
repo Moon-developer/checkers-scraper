@@ -1,0 +1,1369 @@
+{
+  "Food": {
+    "Fresh-Food": {
+      "Fresh-Fruit": {
+        "Apples-and-Pears": "c-59",
+        "Bananas": "c-2414",
+        "Coconuts": "c-2415",
+        "Fruit-Pots-and-Packs": "c-2416",
+        "Grapes": "c-2417",
+        "Mango,-Kiwi-and-Exotic-Fruit": "c-2418",
+        "Melons-and-Pineapples": "c-2419",
+        "Oranges,-Lemons-and-Citrus-Fruit": "c-2420",
+        "Peaches,-Nectarines,-Plums-and-Apricots": "c-2421",
+        "Strawberries,-Berries-and-Cherries": "c-2422"
+      },
+      "Fresh-Vegetables": {
+        "Broccoli-and-Cauliflower": "c-2424",
+        "Courgettes,-Aubergines-and-Squash": "c-2425",
+        "Carrots-and-Root-Vegetables": "c-2426",
+        "Exotic-Vegetables": "c-2427",
+        "Fresh-Chillies,-Herbs,-Garlic-and-Ginger": "c-2428",
+        "Mushrooms": "c-2429",
+        "Onions-and-Leeks": "c-2430",
+        "Peas,-Beans,-Sweetcorn-and-Asparagus": "c-2431",
+        "Prepared-Vegetables": "c-2432",
+        "Potatoes-and-Sweet-Potatoes": "c-2433",
+        "Spinach,-Cabbages-and-Greens": "c-2434",
+        "Stir-Fry-Vegetables,-Sauce-and-Noodles": "c-2435",
+        "Vegetarian-Burgers-and-Sausages": "c-35000"
+      },
+      "Fresh-Salad,-Herbs-and-Dip": {
+        "Avocado": "c-90",
+        "Celery-and-Fennel": "c-2436",
+        "Coleslaw-and-Potato-Salad": "c-2437",
+        "Cucumber": "c-2438",
+        "Fresh-Chillies,-Garlic-and-Ginger": "c-2439",
+        "Fresh-Herbs": "c-2440",
+        "Lettuce-and-Salad-Bags": "c-2441",
+        "Hummus-and-Dips": "c-2442",
+        "Olives-and-Antipasti": "c-2443",
+        "Peppers": "c-2444",
+        "Prepared-Salads": "c-2445",
+        "Salad-Dressings-and-Croutons": "c-2446",
+        "Spring-Onions,-Radish-and-Beetroot": "c-2447",
+        "Tomatoes": "c-2448"
+      },
+      "Cheese": {
+        "Blue-Cheese-and-Other-Aged-Cheese": "c-2450",
+        "Cheddar-Cheese": "c-2451",
+        "Cheese-For-Entertaining": "c-2452",
+        "Cheese-Snacks-and-Spreads": "c-2453",
+        "Cottage-Cheese-and-Soft-Cheese": "c-2454",
+        "Dairy-Free-Cheese-and-Alternatives": "c-2456",
+        "Feta-and-Goats-Cheese": "c-2457",
+        "Grated-and-Sliced-Cheese": "c-2458",
+        "Halloumi-and-Paneer": "c-2459",
+        "Imported-Cheese": "c-2460",
+        "Mozzarella,-Mascarpone-and-Ricotta": "c-2461",
+        "Speciality-and-Continental-Cheese": "c-2463"
+      },
+      "Yoghurt": {
+        "Fat-Free-and-Low-Fat-Yoghurt": "c-2466",
+        "Flavoured-Big-Pot-Yoghurt": "c-2467",
+        "Full-Cream-Yoghurt": "c-2468",
+        "Indulgent-Yoghurts-and-Dairy-Desserts": "c-2469",
+        "Kids-Yoghurt": "c-2470",
+        "Lactose-Free-Yoghurts": "c-2471",
+        "Natural-and-Greek-Yoghurt": "c-2472",
+        "Yoghurt-Drinks": "c-2474",
+        "Yoghurt-Based-Dairy-Snack": "c-49000"
+      },
+      "Milk,-Butter-and-Eggs": {
+        "Butter,-Spreads-and-Margarine": "c-2477",
+        "Dairy-Alternatives": "c-2478",
+        "Eggs": "c-2479",
+        "Fresh-Cream-and-Custard": "c-2480",
+        "Long-Life-Milk-and-Cream": "c-2481",
+        "Milk": "c-2482"
+      },
+      "Fresh-and-Chilled-Desserts": {
+        "Chocolate-Desserts": "c-2484",
+        "Dessert-Packs": "c-2485",
+        "Free-From-Desserts": "c-2486",
+        "Mousses-and-Smooth-Desserts": "c-2487",
+        "Potted-Desserts": "c-2488"
+      },
+      "Cooked-Meats,-Sandwich-Fillers-and-Deli": {
+        "Beef-Slices": "c-2490",
+        "Chicken-and-Turkey-Slices": "c-2491",
+        "Chorizo,-Salami-and-Continental-Meats": "c-2492",
+        "Cooked-Chicken-and-Meat-Pieces": "c-2493",
+        "Frankfurters,-Hotdogs-and-Sausage": "c-2494",
+        "Deli-Counter": "c-2495",
+        "Ham-Slices": "c-2496",
+        "Pate": "c-2497",
+        "Pickled-Fish-and-Rollmops": "c-2498",
+        "Pork-and-Bacon-Slices": "c-2499",
+        "Sandwich-Fillers": "c-2500"
+      },
+      "Ready-Meals": {
+        "Microwave-Meals": "c-2502",
+        "Oh-My-Goodness": "c-2503",
+        "Oven-Bakes": "c-2504",
+        "Pasta-Meals": "c-2505",
+        "Oven-Ready-Pizza": "c-2506",
+        "Pies-and-Quiches": "c-2507",
+        "Ready-To-Chef": "c-2508",
+        "Salad-Pots": "c-2509",
+        "Simple-Truth": "c-2510",
+        "Soups": "c-2511",
+        "Starters-and-Sides": "c-2512",
+        "Vegetarian-and-Vegan-Ready-Meals": "c-2513",
+        "Wraps,-Pitas,-Rolls-and-Sandwiches": "c-2514"
+      },
+      "Fresh-Meat-and-Poultry": {
+        "Burgers-and-Meatballs": "c-2516",
+        "Fresh-Bacon-and-Gammon": "c-2517",
+        "Butcher's-Counter": "c-2518",
+        "Fresh-Beef": "c-2519",
+        "Fresh-Chicken": "c-2520",
+        "Fresh-Lamb": "c-2521",
+        "Fresh-Ostrich": "c-2522",
+        "Fresh-Pork": "c-2523",
+        "Mince": "c-2524",
+        "Fresh-Turkey": "c-2525",
+        "Prepared-Meat": "c-2526",
+        "Ready-To-Braai": "c-2527",
+        "Sausages": "c-2528",
+        "Venison-and-Game": "c-2529"
+      },
+      "Fresh-Fish-and-Seafood": {
+        "Breaded-and-Prepared-Fish": "c-2531",
+        "Hake-and-Snoek": "c-2532",
+        "Prawns-and-Crab": "c-2535",
+        "Smoked-Fish": "c-2538",
+        "Sushi-and-Ready-to-Eat": "c-2539"
+      }
+    },
+    "Frozen-Food": {
+      "Frozen-Vegetables": {
+        "Frozen-Carrots,-Pumpkin-and-Butternut": "c-2542",
+        "Frozen-Chargrilled-and-Roasting-Vegetables": "c-2543",
+        "Frozen-Green-Vegetables": "c-2544",
+        "Frozen-Mixed-Vegetables": "c-2545",
+        "Frozen-Prepared-Vegetables": "c-2546",
+        "Frozen-Peas": "c-2547",
+        "Frozen-Stir-Fry-Vegetables": "c-2548",
+        "Frozen-Sweetcorn": "c-2549"
+      },
+      "Frozen-Chips,-Potatoes-and-Rice": {
+        "Frozen-Cauliflower-Rice": "c-2551",
+        "Frozen-Frying-Chips": "c-2552",
+        "Frozen-Oven-Chips": "c-2553",
+        "Frozen-Potatoes": "c-2554",
+        "Frozen-Rice": "c-2555",
+        "Frozen-Sweet-Potatoes": "c-2556"
+      },
+      "Frozen-Fish-and-Seafood": {
+        "Frozen-Battered-Fish": "c-2558",
+        "Frozen-Breaded-and-Lightly-Dusted-Fish": "c-2559",
+        "Frozen-Fish-Cakes-and-Dippers": "c-2560",
+        "Frozen-Fish-Fillets": "c-2561",
+        "Frozen-Fish-Fingers": "c-2562",
+        "Frozen-Fish-in-Sauce": "c-2563",
+        "Frozen-Prawns": "c-2564",
+        "Frozen-Ready-to-Steam-Fish": "c-2565",
+        "Frozen-Seafood-and-Shellfish": "c-2566"
+      },
+      "Frozen-Meat-and-Poultry": {
+        "Frozen-BBQ-Meat-and-Chicken": "c-2568",
+        "Frozen-Beef": "c-2569",
+        "Frozen-Breaded-Chicken": "c-2570",
+        "Frozen-Burgers": "c-2571",
+        "Frozen-Chicken": "c-2572",
+        "Frozen-Lamb": "c-2573",
+        "Frozen-Pork-and-Gammon": "c-2574",
+        "Frozen-Sausages": "c-2575"
+      },
+      "Frozen-Vegetarian-and-Meat-Free": {
+        "Frozen-Vegetarian-Bakes-and-Pies": "c-2577",
+        "Frozen-Vegetarian-Burgers-and-Sausages": "c-2578",
+        "Frozen-Vegetarian-Mince": "c-2579",
+        "Frozen-Vegetarian-Steaklets-and-Pieces": "c-2580",
+        "Frozen-Vegetarian-Ready-Meals": "c-2581"
+      },
+      "Frozen-Pies-and-Party-Food": {
+        "Frozen-Pies": "c-2583",
+        "Frozen-Sausage-Rolls": "c-2584",
+        "Frozen-Savoury-Party-Food": "c-2585"
+      },
+      "Frozen-Pizza-and-Garlic-Bread": {
+        "Frozen-Garlic-Bread-and-Focaccia": "c-2588",
+        "Frozen-Pizza": "c-2589",
+        "Kids-Frozen-Pizza": "c-2590"
+      },
+      "Frozen-Ready-Meals": {
+        "Frozen-Asian-and-Indian-Ready-Meals": "c-2592",
+        "Frozen-Healthy-and-Diet-Ready-Meals": "c-2595",
+        "Frozen-Italian-and-Mediterranean-Ready-Meals": "c-2596",
+        "Frozen-Kids-Ready-Meals": "c-2597",
+        "Frozen-Roast-Dinners-and-Traditional-Meals": "c-2599"
+      },
+      "Frozen-Fruit-and-Pastry": {
+        "Frozen-Fruit": "c-2601",
+        "Frozen-Berries": "c-2602",
+        "Frozen-Pastry-and-Bakery": "c-2603"
+      },
+      "Frozen-Desserts,-Ice-Cream-and-Ice": {
+        "Frozen-Desserts": "c-2606",
+        "Ice-Cream-Cones,-Bars-and-Sandwiches": "c-2607",
+        "Ice-Cream-Sticks": "c-2608",
+        "Ice-Cream-Tubs": "c-2609",
+        "Ice-Cubes": "c-2610",
+        "Ice-Lollies": "c-2611",
+        "Luxury-Ice-Cream-Tubs": "c-2612",
+        "Sorbet-and-Frozen-Yoghurt": "c-2613"
+      }
+    },
+    "Bakery": {
+      "Bread-and-Rolls": {
+        "Bread-Rolls": "c-549",
+        "Brown-and-Wholemeal-Bread": "c-2615",
+        "French-Loaves-and-Long-Bread": "c-2616",
+        "Garlic-Rolls": "c-2617",
+        "Seeded-Bread": "c-2619",
+        "Speciality-Breads": "c-2621",
+        "White-Bread": "c-2622"
+      },
+      "Wraps,-Pitas-and-Naan": {
+        "Flatbreads": "c-2624",
+        "Naan": "c-2625",
+        "Wraps": "c-2627"
+      },
+      "Muffins,-Pancakes-and-Waffles": {
+        "Crumpets-and-Flapjacks": "c-2629",
+        "Savoury-Muffins": "c-2630",
+        "Pancakes": "c-2631",
+        "Sweet-Muffins": "c-2632",
+        "Waffles": "c-2633"
+      },
+      "Croissants,-Scones-and-Pastries": {
+        "Croissants": "c-2635",
+        "Hot-Cross-Buns": "c-2636",
+        "Pastries": "c-2637",
+        "Scones": "c-2638"
+      },
+      "Doughnuts,-Fresh-Cookies-and-Iced-Buns": {
+        "Doughnuts": "c-2640",
+        "Iced-Buns": "c-2642",
+        "Sweet-Bites-and-Slices": "c-2643"
+      },
+      "Cakes,-Cupcakes-and-Tarts": {
+        "Birthday-and-Celebration-Cakes": "c-632",
+        "Cupcakes": "c-2644",
+        "Healthier-and-Organic-Cakes": "c-2645",
+        "Fruit-Pies-and-Tarts": "c-2646",
+        "Large-Sharing-Cakes": "c-2647",
+        "Small-Cakes": "c-2648",
+        "Traybakes": "c-2649"
+      },
+      "From-our-Bakery": {
+        "Fresh-Pies-from-our-Bakery": "c-2652",
+        "Rolls-from-our-Bakery": "c-2654",
+        "Sweet-Treats-from-our-Bakery": "c-2655"
+      }
+    },
+    "Food-Cupboard": {
+      "Biltong,-Dried-Fruit,-Nuts-and-Seeds": {
+        "Biltong": "c-538",
+        "Dried-Fruit": "c-541",
+        "Dried-Snacks": "c-543",
+        "Dro\u00ebwors": "c-544",
+        "Kids-Fruit-and-Nut-Snacks": "c-548",
+        "Roasted,-Salted-and-Flavoured-Nuts": "c-550",
+        "Plain-Nuts": "c-552",
+        "Seeds": "c-554"
+      },
+      "Biscuits,-Cookies-and-Cereal-Bars": {
+        "Biscuit-Selections": "c-627",
+        "Biscuits": "c-631",
+        "Cereal-Bars-and-Breakfast-Biscuits": "c-636",
+        "Cookies": "c-638",
+        "Light-and-Healthier-Biscuits": "c-639",
+        "Luxury,-Continental-and-Shortbread-Biscuits": "c-641"
+      },
+      "Canned-Food": {
+        "Canned-Coconut-Milk-and-Cream": "c-796",
+        "Canned-Fish-and-Seafood": "c-797",
+        "Canned-Meals": "c-802",
+        "Canned-Fruit": "c-805",
+        "Canned-Meat-and-Savoury-Spreads": "c-807",
+        "Canned-Pulses,-Lentils-and-Beans": "c-811",
+        "Canned-Soup": "c-815",
+        "Canned-Spaghetti-and-Pasta": "c-819",
+        "Canned-Tomatoes-and-Puree": "c-821",
+        "Canned-Vegetables": "c-822"
+      },
+      "Crackers-and-Crispbreads": {
+        "Breadsticks,-Twists-and-Nibbles": "c-681",
+        "Cracker-Selections": "c-2657",
+        "Crackers-and-Cream-Crackers": "c-2658",
+        "Rice,-Corn-and-Multigrain-Cakes": "c-2659",
+        "Crispbreads-and-Crackerbread": "c-2660"
+      },
+      "Chips,-Snacks-and-Popcorn": {
+        "Baked-Snacks": "c-345",
+        "Large-Bag-Chips": "c-2661",
+        "Healthy-and-Vegetable-Chips": "c-2662",
+        "Multipack-Chips": "c-2663",
+        "Popcorn": "c-2664",
+        "Small-Bag-Chips": "c-2665",
+        "Tortilla-Chips,-Dips-and-Party-Snacks": "c-2666"
+      },
+      "Breakfast-Cereals,-Porridge-and-Pap": {
+        "Cornflakes-and-Branflakes": "c-705",
+        "Family-Cereals": "c-711",
+        "Healthier-Cereals": "c-715",
+        "Muesli-and-Granola": "c-719",
+        "Oats": "c-721",
+        "Porridge,-Maize-Meal-and-Pap": "c-725",
+        "Rice-Cereals": "c-726",
+        "Cereal-Enhancers": "c-63005"
+      },
+      "Sugar-and-Sweeteners": {
+        "Brown,-Caramel-and-Treacle-Sugar": "c-748",
+        "Cane-Sugar-Alternatives": "c-772",
+        "Sweeteners": "c-2667",
+        "White-Sugar": "c-2668"
+      },
+      "Baking": {
+        "Baking-Fillings-and-Spreads": "c-390",
+        "Condensed-and-Evaporated-Milk": "c-394",
+        "Baking-Powder-and-Raising-Agents": "c-396",
+        "Essences,-Flavouring-and-Colouring": "c-398",
+        "Flour": "c-399",
+        "Gelatine": "c-401",
+        "Icing-and-Decorating": "c-405",
+        "Pre-Mixed-Baking": "c-407"
+      },
+      "Chocolates-and-Sweets": {
+        "Boiled-Sweets": "c-618",
+        "Chocolate-Bars": "c-925",
+        "Chocolate-Boxes-and-Gifts": "c-929",
+        "Chocolates-and-Sweet-Party-Packs": "c-932",
+        "Imported-Chocolate": "c-934",
+        "Liquorice": "c-936",
+        "Mints-and-Chewing-Gum": "c-938",
+        "Nougat,-Fudge-and-Toffees": "c-940",
+        "Soft-Sweets": "c-942"
+      },
+      "Desserts,-Jellies-and-Custards": {
+        "Custards": "c-2670",
+        "Dessert-Bases-and-Meringues": "c-2671",
+        "Ice-Cream-Cones-and-Toppings": "c-2672",
+        "Instant-Puddings-and-Mixes": "c-2673",
+        "Jellies-and-Fruit-Pots": "c-2674",
+        "Pre-Mixed-Desserts": "c-2675"
+      },
+      "Long-Life-Milk-and-Dairy-Alternatives": {
+        "Almond,-Rice-and-Oat-Milk": "c-68",
+        "Long-Life-UHT-Milk": "c-2676",
+        "Coconut-Milk-and-Cream": "c-949",
+        "Soya-Milk": "c-2677"
+      },
+      "Spreads,-Honey-and-Preserves": {
+        "Chocolate-and-Sweet-Spreads": "c-900",
+        "Fruit-Compotes": "c-2679",
+        "Honey": "c-2680",
+        "Jams-and-Marmalade": "c-2681",
+        "Peanut-and-Nut-Butters": "c-2682",
+        "Savoury-Spreads": "c-2683",
+        "Syrup-and-Treacle": "c-2684"
+      },
+      "Rice,-Pasta,-Noodles-and-Cous-Cous": {
+        "Cous-Cous": "c-2686",
+        "Noodles": "c-2688",
+        "Pasta": "c-2689",
+        "Quinoa-and-Healthy-Grains": "c-2691",
+        "Rice": "c-2692"
+      },
+      "Table-Condiments-and-Dressings": {
+        "Balsamic-Vinegar": "c-378",
+        "BBQ-Sauce-and-Marinades": "c-428",
+        "Chilli-and-Hot-Sauces": "c-888",
+        "Brown-Sauces": "c-737",
+        "Chutney-and-Relishes": "c-918",
+        "Mayonnaise": "c-2693",
+        "Mustard,-Mint-and-Jellies": "c-2694",
+        "Olive-Oil": "c-2695",
+        "Salad-Dressing": "c-2696",
+        "Tomato-Sauce": "c-2697"
+      },
+      "Cooking-Ingredients": {
+        "Breadcrumbs-and-Stuffing": "c-670",
+        "Cook-In-Sauces-and-Kits": "c-1059",
+        "Cooking-Oils-and-Fats": "c-1061",
+        "Dried-Herbs": "c-2698",
+        "Dried-Lentils,-Beans,-Grains-and-Pulses": "c-2699",
+        "Gravies,-Sauces-and-Pastes": "c-2700",
+        "Salt-and-Pepper": "c-2701",
+        "Soups-and-Stocks": "c-2702",
+        "Seasoning-and-Rubs": "c-2703",
+        "Spices": "c-2704",
+        "Vinegar": "c-2705",
+        "Gravies-and-Sauces": "c-46003",
+        "Soya-Mince": "c-54006",
+        "Prepared-Vegetable-Kits": "c-54014"
+      },
+      "Olives,-Gherkins-and-Pickles": {
+        "Atchar-and-Pickles": "c-87",
+        "Beetroot": "c-508",
+        "Gherkins": "c-2706",
+        "Olives": "c-2707",
+        "Pickled-Onions": "c-2708",
+        "Peppadews": "c-52000"
+      }
+    },
+    "Platters-and-Fruit-Baskets": {
+      "Fruit-and-Vegetable-Platters": {
+        "Fruit-Platters": "c-2710"
+      },
+      "Chicken-and-Poultry-Platters": {
+        "Cooked-Chicken-Platters": "c-912"
+      },
+      "Meat-Platters": {
+        "Cold-Meat-Platters": "c-986",
+        "Cooked-Meat-Platters": "c-1021"
+      },
+      "Sweet-and-Dessert-Platters": {
+        "Sweet-Platters": "c-2713"
+      },
+      "Cocktail-and-Cheese-Platters": {
+        "Cheese-Platters": "c-905",
+        "Cocktail-Pastry-Platters": "c-974"
+      },
+      "Mixed-Platters": {
+        "Cocktail-and-Cheese-Mixed-Platters": "c-956",
+        "Meat-and-Poultry-Mixed-Platters": "c-2715"
+      },
+      "Vegetarian-and-Vegan-Platters": {
+        "Mixed-Vegetarian-and-Vegan-Platters": "c-2716"
+      }
+    }
+  },
+  "Drinks": {
+    "Soft-Drinks": {
+      "Cola": "c-2259",
+      "Diet-and-Sugar-Free-Soft-Drinks": "c-2260",
+      "Flavoured-Soft-Drinks": "c-2262",
+      "Lemonade-and-Ginger-Ale": "c-2263"
+    },
+    "Juices-and-Smoothies": {
+      "Boxed-Fruit-Juice": "c-2265",
+      "Coconut-Water-and-Aloe-Juice": "c-2267",
+      "Fresh-Fruit-Juice": "c-2269",
+      "Fresh-Smoothies": "c-2271",
+      "Kids-Juice-and-Smoothies": "c-2272",
+      "Tomato-and-Vegetable-Juice": "c-2273"
+    },
+    "Bottled-Water": {
+      "Sparkling-Water": "c-2278",
+      "Flavoured-Water": "c-2280",
+      "Still-Water": "c-2282"
+    },
+    "Squash,-Concentrates-and-Cordials": {
+      "Cordials": "c-2284",
+      "Flavoured-Syrups": "c-2285",
+      "Fruit-Concentrates": "c-2286",
+      "Fruit-Squash": "c-2288",
+      "Soda-Syrups": "c-2290"
+    },
+    "Kids-and-Lunchbox-Drinks": {
+      "Kids-and-Lunchbox-Juice-Cartons": "c-2294",
+      "Kids-and-Lunchbox-Drink-Pouches": "c-2295",
+      "Kids-and-Lunchbox-Drink-Bottles": "c-2296"
+    },
+    "Sports-and-Energy-Drinks": {
+      "Sports-Drinks": "c-2299",
+      "Energy-Drinks": "c-2300",
+      "Wellbeing-Drinks": "c-2301"
+    },
+    "Tea": {
+      "Ceylon-Tea": "c-2303",
+      "Decaf-Tea": "c-2304",
+      "Earl-Grey-Tea": "c-2306",
+      "Fruit-and-Herbal-Tea": "c-2308",
+      "Green-Tea": "c-2309",
+      "Iced-Tea": "c-2310",
+      "Rooibos-Tea": "c-2312",
+      "Sleep,-Detox-and-Added-Benefits-Tea": "c-2313",
+      "Tea-Pods": "c-2315"
+    },
+    "Dairy-Drinks": {
+      "Dairy-Fruit-Drinks": "c-2319",
+      "Drinking-Yoghurt": "c-2321",
+      "Milkshakes": "c-2322",
+      "Protein-Shakes": "c-2323"
+    },
+    "Coffee": {
+      "Coffee-Beans": "c-2325",
+      "Coffee-Creamer": "c-2326",
+      "Coffee-Filters": "c-2327",
+      "Coffee-Pods": "c-2328",
+      "Decaf-Coffee": "c-2329",
+      "Ground-Coffee": "c-2330",
+      "Iced-Coffee": "c-2331",
+      "Instant-Cappuccino,-Latte-and-Mocha": "c-2332",
+      "Instant-Coffee": "c-2333"
+    },
+    "Hot-Drinks": {
+      "Flavoured-Hot-Drinks": "c-2335",
+      "Hot-Chocolate": "c-2336",
+      "Malted-Hot-Drinks": "c-2337"
+    },
+    "Beer-and-Cider": {
+      "Beer": "c-2341",
+      "Cider": "c-2342",
+      "Craft-Beer": "c-2343",
+      "Stout": "c-2345"
+    },
+    "Wine": {
+      "Champagne-and-Sparkling-Wine": {
+        "Champagne": "c-2348",
+        "Red-Sparkling-Wine": "c-2349",
+        "Ros\u00e9-Sparkling-Wine": "c-2350",
+        "White-Sparkling-Wine": "c-2351"
+      },
+      "Red-Wine": {
+        "Cabernet-Sauvignon": "c-2353",
+        "Merlot": "c-2354",
+        "Pinot-Noir": "c-2355",
+        "Pinotage": "c-2356",
+        "Red-Wine-Blends": "c-2357",
+        "Shiraz": "c-2358",
+        "Speciality-and-Imported-Red-Wine": "c-2359"
+      },
+      "Ros\u00e9-Wine": {
+        "Dry-Ros\u00e9-Wine": "c-2361",
+        "Sweet-Ros\u00e9-Wine": "c-2362",
+        "Imported-Ros\u00e9-Wine": "c-2363"
+      },
+      "White-Wine": {
+        "Chardonnay": "c-2365",
+        "Chenin-Blanc": "c-2366",
+        "Sauvignon-Blanc": "c-2367",
+        "Specialty-and-Imported-White-Wine": "c-2368",
+        "Semi-Sweet-White": "c-2369",
+        "White-Blends": "c-2370"
+      },
+      "Boxed-Wine": {
+        "Red-Boxed-Wine": "c-2372",
+        "Ros\u00e9-Boxed-Wine": "c-2373",
+        "White-Boxed-Wine": "c-2375"
+      },
+      "Sherry-and-Port": {
+        "Blended-Sherry": "c-2377",
+        "Ruby-Port": "c-2380",
+        "Tawny-Port": "c-2382"
+      },
+      "Wine-Gift-Sets": {
+        "White-Wine-Gift-Sets": "c-2388"
+      }
+    },
+    "Spirits-and-Liqueurs": {
+      "Brandy-and-Cognac": "c-2390",
+      "Gin": "c-2392",
+      "Liqueurs-and-Speciality-Spirits": "c-2393",
+      "Premix-Cocktails-and-Cocktail-Ingredients": "c-2394",
+      "Premix-Shooters": "c-2395",
+      "Rum": "c-2396",
+      "Vodka": "c-2399",
+      "Tequila": "c-2400",
+      "Whisky": "c-2401"
+    },
+    "Spirit-Coolers": {
+      "Spirit-and-Wine-Coolers": {
+        "Energy-Spirit-Coolers": "c-1245",
+        "Fruit-Spirit-Coolers": "c-1666",
+        "Spirit-Premixes": "c-2235"
+      }
+    },
+    "Soda-and-Tonic-Water": {
+      "Ginger-Ale": "c-2404",
+      "Soda-Water": "c-2405",
+      "Tonic-Water": "c-2406",
+      "Traditional-Mixers": "c-2407"
+    },
+    "Non-Alcoholic-Beverages": {
+      "Non-Alcoholic-Beer": "c-2409",
+      "Non-Alcoholic-Spirit-Coolers": "c-2410",
+      "Non-Alcoholic-Sparkling-Wine": "c-2411",
+      "Non-Alcoholic-Wine": "c-2412",
+      "Non-Alcholic-Beer": "c-68001"
+    }
+  },
+  "Household": {
+    "Appliances": {
+      "Food-Preparation-Appliances": {
+        "Blenders": "c-577"
+      },
+      "Health-and-Beauty-Appliances": {
+        "Hairdryers": "c-1774"
+      },
+      "Kitchen-Appliances": {
+        "Kettles": "c-1879",
+        "Toasters": "c-2246",
+        "Microwaves": "c-1955",
+        "Coffee-Machines": "c-944",
+        "Cookers-and-Fryers": "c-1044",
+        "Milk-Frothers": "c-42001",
+        "Tabletop-Stoves,-Warmers-and-Mini-Ovens": "c-2241",
+        "Sandwich-and-Food-Makers": "c-2215"
+      },
+      "Ice-Makers": "c-1832"
+    },
+    "Bathroom": {
+      "Bath-and-Toilet-Mats": "c-433",
+      "Bathroom-Accessories": "c-434",
+      "Bathroom-Decor": "c-435",
+      "Bathroom-Fittings": "c-436",
+      "Shower-Curtains": {
+        "Shower-Curtain-Hooks": "c-64002"
+      },
+      "Towels": {
+        "Beach-Towels": "c-106008"
+      }
+    },
+    "Bedroom": {
+      "Bedding-Sets": "c-491",
+      "Cushions-and-Pillows": "c-498",
+      "Duvet-Inners,-Throws-and-Blankets": "c-499",
+      "Hot-Water-Bottles": "c-54004"
+    },
+    "Car": {
+      "Auto-Maintenance": "c-128",
+      "Battery-Cables-and-Chargers": "c-430",
+      "Car-Cleaning-and-Sun-Care": {
+        "Car-Air-Fresheners": "c-38024",
+        "Car-Cleaning-Agents": "c-60010",
+        "Car-Polish": "c-63003"
+      },
+      "Car-Covers-and-Mats": "c-865",
+      "Car-Tools": "c-868",
+      "Motor-Oil-and-Additives": "c-871"
+    },
+    "Cleaning": {
+      "Bleach-and-Disinfectants": "c-584",
+      "Air-Fresheners-and-Home-Fragrance": "c-134",
+      "Buckets-and-Basins": "c-736",
+      "Brooms,-Brushes-and-Mops": {
+        "Brushes-and-Scrubbers": "c-43000"
+      },
+      "Cleaning-Protection-and-Wear": {
+        "Cleaning-Gloves": "c-42003"
+      },
+      "Dishwashing": "c-989",
+      "Eco-Friendly-Cleaning": "c-990",
+      "Refuse-Bags-and-Bin-Liners": "c-991",
+      "Household-Cleaning-Agents": {
+        "Toilet-Cleaner": "c-54018",
+        "Drain-Cleaner": "c-67004"
+      },
+      "Kitchen-Towels,-Cloths-and-Dusters": "c-993",
+      "Household-Insecticides": {
+        "Aerosol-Insecticide": "c-64000"
+      },
+      "Laundry-Detergent-and-Fabric-Softener": {
+        "Fabric-Softener-and-Conditioner": "c-51000",
+        "Washing-Tablets,-Capsules-and-Pods": "c-54008",
+        "Washing-Powder": "c-54010"
+      },
+      "Polishers": "c-1012",
+      "Scourers-and-Steel-Wool": "c-1024",
+      "Laundy-Detergent-and-Fabric-Softener": {
+        "Washing-Liquid-and-Gel": "c-57085"
+      }
+    },
+    "Decor": {
+      "Artificial-Plants-and-Flowers": "c-133",
+      "Decorative-Storage": "c-1168",
+      "Clocks": "c-958",
+      "Mirrors": "c-1170",
+      "Ornaments": "c-1171",
+      "Photo-Albums-and-Frames": "c-1172",
+      "Vases": "c-1173",
+      "Wall-Art": "c-1175"
+    },
+    "DIY": {
+      "DIY-Adhesives-and-Fillers": "c-1205",
+      "Curtains-Rails-and-Blinds": "c-1098",
+      "Fittings-and-Shelving": "c-1207",
+      "Ladders": "c-1209",
+      "Nails,-Screws-and-Bolts": "c-1210",
+      "Paint-and-Accessories": "c-1211",
+      "Rope,-Chains-and-Twine": "c-1213",
+      "Security": "c-1216",
+      "Storage": "c-1219",
+      "Tools": {
+        "Power-Tools": "c-60006",
+        "Toolboxes": "c-106000"
+      }
+    },
+    "Electrical": {
+      "Batteries": "c-420",
+      "Electrical-Accessories": "c-1239",
+      "Electrical-Adapters": "c-1240",
+      "Extension-Cords": "c-1241",
+      "Globes": {
+        "Energy-Saving-and-LED-Globes": "c-106002"
+      },
+      "Lighting": "c-1243",
+      "Torches-and-Lanterns": "c-1244"
+    },
+    "Kitchen": {
+      "Bar-Accessories": "c-391",
+      "Bins-and-Storage": {
+        "Plastic-Refuse-Bins": "c-38018"
+      },
+      "Cookware-and-Bakeware": {
+        "Frying-and-Saut\u00e9e-Pans": "c-38004",
+        "Glass-Cookware": "c-38006",
+        "Metal-and-Roasting-Cookware": "c-39000",
+        "Pots": "c-62007",
+        "Enamel-and-General-Cookware": "c-62009"
+      },
+      "Crockery": {
+        "Mugs": "c-54020",
+        "Plates-and-Bowls": "c-54022"
+      },
+      "Cutlery": {
+        "Cutlery-Sets": "c-38026"
+      },
+      "Glassware": {
+        "Stemmed-Glasses": "c-38008",
+        "Flat-Bottom-Glasses": "c-38010",
+        "Glass-Jugs": "c-38012",
+        "Glass-Bowls": "c-38014",
+        "Glass-Storage": "c-38016"
+      },
+      "Kitchen-Accessories": {
+        "Bread-Bins": "c-106006"
+      },
+      "Kitchen-Disposables": {
+        "Kitchen-Roll": "c-53000",
+        "Serviettes": "c-62005",
+        "Resealable-Plastic-Food-Bags": "c-63007",
+        "Foil,-Cling-Wrap-and-Wax-Paper": "c-63009"
+      },
+      "Kitchen-Furniture": "c-2725",
+      "Kitchen-Utensils,-Tools-and-Knives": "c-2726",
+      "Plasticware": {
+        "Plastic-Bottles,-Jugs-and-Ice-Trays": "c-38028",
+        "Plastic-Lunchboxes": "c-60008"
+      },
+      "Tableware": {
+        "Serving-and-Party-Tableware": "c-60012"
+      }
+    },
+    "Laundry": {
+      "Clothes-Drying": "c-965",
+      "Clothing-Pegs-and-Clips": "c-959",
+      "Hangers": {
+        "Plastic-Hangers": "c-38022"
+      },
+      "Ironing-Boards-and-Covers": "c-2730",
+      "Laundry-Bins-and-Baskets": "c-2731"
+    },
+    "Luggage-and-Travel": {
+      "Backpacks": "c-362",
+      "Sport-and-Travel-bags": {
+        "Travel-Bags": "c-64004"
+      },
+      "Handbags": "c-2734",
+      "Suitcases": "c-2735",
+      "Travel-Accessories": {
+        "Toiletry-Bags": "c-106004"
+      },
+      "Kids-and-School-Backpacks": "c-66000"
+    },
+    "Wool,-Sewing-and-Needlework": {
+      "Sewing-and-Needlework": "c-2738",
+      "Shoelaces": "c-2739"
+    }
+  },
+  "Health-and-Beauty": {
+    "Bath,-Shower-and-Soap": {
+      "Bar-Soap": "c-446",
+      "Bath-Accessories": "c-448",
+      "Bath-Salts-and-Oils": "c-449",
+      "Hand-Gel-and-Wipes": "c-450",
+      "Indulgent-Bath-and-Gift-Sets": "c-451",
+      "Hand-Wash": "c-452",
+      "Kid's-Bath-and-Shower": "c-454",
+      "Shower-Gel": "c-455",
+      "Foam-Bath": "c-41003"
+    },
+    "Eyecare": {
+      "Eye-Drops-and-Rinses": "c-1271"
+    },
+    "First-Aid": {
+      "Antiseptics-and-Disinfectants": "c-39",
+      "Insect-Repellents-and-Treatments": "c-1299",
+      "Plaster,-Bandages-and-Dressings": "c-1303",
+      "Sports-Support-and-First-Aid": "c-1315",
+      "Thermometers": "c-1317"
+    },
+    "Fragrances-and-Deodorant": {
+      "Female-Fragrances": "c-1266",
+      "Female-Roll-on-and-Stick-Deodorant": "c-1272",
+      "Female-Spray-Deodorant": "c-1268",
+      "Male-Fragances": "c-1357",
+      "Male-Aftershave": "c-1358",
+      "Male-Roll-on-and-Stick-Deodorant": "c-1360",
+      "Male-Spray-Deodorant": "c-1361"
+    },
+    "Hair-Care": {
+      "Anti-Dandruff-and-Scalp-Haircare": "c-24",
+      "Colour-Haircare": "c-1013",
+      "Conditioner": "c-1001",
+      "Hair-Accessories": "c-2749",
+      "Dry-Shampoo": "c-1220",
+      "Hair-Colourants-and-Dyes": "c-2750",
+      "Hair-Treatments,-Serum-and-Oil": "c-2751",
+      "Kids-Haircare": "c-2752",
+      "Natural-Haircare": "c-2753",
+      "Mens-Haircare": "c-2754",
+      "Professional-Haircare": "c-2755",
+      "Repair-and-Restore-Haircare": "c-2756",
+      "Shampoo": "c-2757",
+      "Styling-Products": "c-2758"
+    },
+    "Makeup-and-Nails": {
+      "Eye-Makeup": "c-1255",
+      "Foundations-and-Concealers": "c-1345",
+      "Lipstick-and-Gloss": "c-2759",
+      "Nails": "c-2761",
+      "Cosmetic-Accessories": "c-1074"
+    },
+    "Oral-Care": {
+      "Battery-and-Electric-Toothbrushes": "c-423",
+      "Dental-Accessories": "c-1137",
+      "Denture": "c-1157",
+      "Gum-Health": "c-2762",
+      "Mouthwash": "c-2763",
+      "Kids-Oral-Care": "c-2764",
+      "Sensitive-Oral-Care": "c-2765",
+      "Toothbrushes": "c-2766",
+      "Toothpaste": "c-2767",
+      "Whitening-Oral-Care": "c-2768"
+    },
+    "Personal-Grooming": {
+      "Beard-Grooming": "c-472",
+      "Cotton-Wool-and-Buds": "c-1094",
+      "Electric-Shavers,-Waxers-and-Groomers": "c-1232",
+      "Foot-Care": "c-1341",
+      "Hair-Removal-Creams-and-Sprays": "c-2769",
+      "Mens-Shaving": "c-2770",
+      "Tweezers,-Nail-Clippers-and-Grooming-Accessories": "c-2771",
+      "Self-Tanning-Spray-and-Cream": "c-2772",
+      "Womens-Shaving-and-Waxes": "c-2773"
+    },
+    "Medicine": {
+      "Cold-and-Flu": "c-980",
+      "Constipation,-Diarrhoea,-IBS-and-Wind": "c-997",
+      "Dry-and-Irritated-Skincare": "c-1208",
+      "Cough-Medicines": "c-1080",
+      "Hayfever-and-Allergy": "c-2774",
+      "Heartburn-and-Indigestion": "c-2775",
+      "Kids-Medicines": "c-2776",
+      "Lip-Balm,-Ulcer-and-Cold-Sore-Relief": "c-2777",
+      "Medicated-Skincare-and-Shampoo": "c-2778",
+      "Pain-Relief": "c-2779",
+      "Sore-Throat": "c-2780",
+      "Nicotine-Replacement": "c-66004"
+    },
+    "Sanitary-Protection": {
+      "Intimate-Hygiene": "c-2781",
+      "Sanitary-Pads-and-Panty-Liners": "c-2782",
+      "Tampons": "c-2783",
+      "Adult-Diapers-and-Protection": "c-16"
+    },
+    "Skincare": {
+      "Anti-Wrinkle-Skincare": "c-51",
+      "Body-Lotion,-Moisturiser-and-Scrub": "c-588",
+      "Clear-Skin-Skincare": "c-945",
+      "Cleanser,-Toner-and-Face-Mask": "c-946",
+      "Face-Cream-and-Moisturiser": "c-1256",
+      "Face-Wash-and-Scrub": "c-1258",
+      "Face-Wipes": "c-1257",
+      "Hand-Cream": "c-2784",
+      "Lip-Balm": "c-2785"
+    },
+    "Sports,-Nuitrition-and-Supplements": {
+      "Energy-Tablets,-Bars-and-Gels": "c-1247",
+      "Pre-Workout-and-Fitness-Supplements": "c-2786",
+      "Protein-Bars-and-Snacks": "c-2787",
+      "Protein-Drinks": "c-2788",
+      "Protein-Powder": "c-2789",
+      "Protein-Shakers-and-Accessories": "c-2790"
+    },
+    "Suncare": {
+      "Facial-Suncare": "c-1260",
+      "Kids-Suncare": "c-2791",
+      "Lotion-Suncare": "c-2792",
+      "Spray-Suncare": "c-2793"
+    },
+    "Tissues-and-Toilet-Rolls": {
+      "Box-Tissues": "c-592",
+      "Pocket-Tissues": "c-2794",
+      "Single-Toilet-Roll": "c-2795",
+      "Multipack-Toilet-Roll": "c-2796"
+    },
+    "Vitamins": {
+      "Age-50+-Vitamins": "c-18",
+      "Beauty-Supplements": "c-457",
+      "Conception-and-Pregnancy-Vitamins": "c-1009",
+      "Energy-Vitamins": "c-1249",
+      "Glucosamine-and-Joint-Care": "c-1758",
+      "Healthy-Digestion-Vitamins": "c-2798",
+      "Immune-Support": "c-2799",
+      "Kids-Vitamins": "c-2800",
+      "Mens-Vitamins": "c-2801",
+      "Multivitamins": "c-2802",
+      "Oils,-Single-Vitamins-and-Minerals": "c-2803",
+      "Stress,-Relaxation-and-Sleep-Aids": "c-2804",
+      "Womens-Vitamins": "c-2805"
+    }
+  },
+  "Baby": {
+    "Baby-Bottles": {
+      "Baby-Bottle-Brushes": "c-212",
+      "Baby-Bottle-Preparation": "c-214",
+      "Baby-Bottle-Teats": "c-215",
+      "Baby-Bottles-and-Cups": "c-216"
+    },
+    "Baby-Clothing-and-Footwear": {
+      "Baby-Caps,-Mittens-and-Scarfs": "c-224",
+      "Baby-Footwear": "c-229",
+      "Baby-Maternity-Accessories": "c-231",
+      "Baby-Newborn-Clothing": "c-233",
+      "Baby-T-Shirts": "c-240",
+      "Baby-Vests-and-Socks": "c-251"
+    },
+    "Baby-Food": {
+      "Baby-and-Toddler-Breakfast": "c-259",
+      "Baby-and-Toddler-Lunch-and-Dinner": "c-263",
+      "Baby-and-Toddler-Snacks": "c-267",
+      "Baby-Fruit-Pots-and-Fruit-Pouches": "c-268",
+      "Baby-Jars": "c-271",
+      "Baby-Juice": "c-272",
+      "Baby-Pouches": "c-274"
+    },
+    "Baby-Furniture-and-Travel": {
+      "Baby-Car-Seats": "c-276",
+      "Baby-Prams-and-Strollers": "c-277",
+      "Baby-Seats-and-Chairs": "c-283",
+      "Baby-Carry-and-Camp-Cots": "c-284",
+      "Baby-Walkers-and-Rockers": "c-285"
+    },
+    "Baby-Healthcare": {
+      "Baby-Cough,-Cold-and-Congestion": "c-291",
+      "Baby-First-Aid-Creams-and-Plasters": "c-293",
+      "Baby-Pain-and-Temperature-Relief": "c-296",
+      "Baby-Vitamins": "c-299",
+      "Colic-Relief-and-Gripe-Water": "c-300",
+      "Nappy-Cream": "c-301",
+      "Teething": "c-302"
+    },
+    "Baby-Laundry": {
+      "Antibacterial-and-Disinfectant-Cleansers": "c-304",
+      "Baby-Washing-Powder-and-Pods": "c-305",
+      "Baby-Fabric-Conditioner-and-Softener": "c-306"
+    },
+    "Baby-Milk": {
+      "Milk-Formula": "c-309",
+      "Lactose-Free-Baby-Milk-and-Formula": "c-310",
+      "Ready-To-Drink-Baby-Milk": "c-311",
+      "Specialist-Baby-Milk-and-Formula": "c-312"
+    },
+    "Baby-Toiletries": {
+      "Baby-Bath-and-Wash": "c-316",
+      "Baby-Cotton-Wool,-Buds-and-Sponges": "c-317",
+      "Baby-Lotions,-Creams-and-Oils": "c-320",
+      "Baby-Powder": "c-322",
+      "Baby-Shampoo-and-Conditioner": "c-324"
+    },
+    "Baby-Toys": {
+      "Baby-Activity-Toys": "c-329",
+      "Baby-Bath-Toys": "c-335",
+      "Baby-Plush-Toys": "c-337",
+      "Baby-Rattles": "c-339",
+      "Educational-Baby-Toys": "c-342",
+      "General-Baby-Toys": "c-348"
+    },
+    "Baby-Weaning": {
+      "Baby-Bibs-and-Burp-Cloths": "c-358",
+      "Baby-Cups-and-Beakers": "c-366",
+      "Baby-Spoons,-Bowls,-Plates-and-Cutlery": "c-368"
+    },
+    "Baby-Wipes": {
+      "Fragance-Free-Baby-Wipes": "c-372",
+      "Fraganced-Baby-Wipes": "c-377",
+      "Fragrance-Free-Baby-Wipes": "c-37002"
+    },
+    "Breast-Feeding": {
+      "Breast-Feeding-Pillows-and-Rests": "c-392",
+      "Breast-Pads": "c-397",
+      "Nipple-Cream": "c-404"
+    },
+    "Dummies-and-Teething": {
+      "Baby-Dummies": "c-438",
+      "Baby-Teething": "c-440"
+    },
+    "Expecting-Mothers": {
+      "Pregnancy-Creams-and-Lotion": "c-447"
+    },
+    "Nappies": {
+      "Disposable-Nappies": "c-1187",
+      "Swim-Nappies": "c-464",
+      "Potty-Training-and-Pull-Up-Nappies": "c-466",
+      "Bedwetting-and-Dry-Nites": "c-469",
+      "Reusable-Nappies-and-Nappy-Liners": "c-474",
+      "Nappy-Sacks-and-Bins": "c-480"
+    },
+    "Nursery": {
+      "Nursery-Accessories": "c-488",
+      "Nursery-Linen-and-Bedding": "c-493"
+    },
+    "Sterilising-and-Antibacterial": {
+      "Antibacterial-Baby-Spray": "c-504",
+      "Sterilising-Fluid-and-Tablets": "c-506"
+    }
+  },
+  "Stationery-and-Newsagent": {
+    "Binding,-Laminating-and-Labelling": "c-525",
+    "Books": "c-580",
+    "Correction": "c-1078",
+    "Filing-and-Folders": "c-1278",
+    "Cutting-and-Sticking": "c-1110",
+    "Hobbies-and-Crafts": {
+      "Colouring-Pencils-and-Crayons": "c-60000",
+      "Hobby-and-Craft-Accessories": "c-60002",
+      "Hobby-Paint-and-Brushes": "c-60004"
+    },
+    "Magazines-and-Newspapers": "c-2741",
+    "Paper": "c-2742",
+    "Pencil-Bags-and-Boxes": "c-2743",
+    "Pens,-Pencils-and-Markers": "c-2744",
+    "Rulers-and-Measuring": "c-2745",
+    "Punches-and-Staplers": "c-2746",
+    "Stationery-Sets": {
+      "School-Stationery-Sets": "c-64006"
+    }
+  },
+  "Sport": {
+    "Bicycles": {
+      "Kids-Bicycles": "c-531",
+      "Mountain-Bicycles": "c-533"
+    },
+    "Field-Sports": {
+      "Rugby": "c-1294",
+      "Soccer": "c-1297"
+    }
+  },
+  "Outdoor": {
+    "Braai": {
+      "Braai-Accessories": "c-675",
+      "Braai-Cleaning": "c-695",
+      "Braai-Grids": "c-709",
+      "Braai-Tongs-and-Tools": "c-713",
+      "Braai-Wood,-Charcoal-and-Briquettes": "c-718",
+      "Gas-Braais": "c-722",
+      "Traditional-Braais": "c-727",
+      "Matches,-Lighters-and-Firelighters": "c-728",
+      "Kettle-Braais": "c-41000"
+    },
+    "Camping": {
+      "Adult-Tents": "c-81",
+      "Camping-and-Tent-Accessories": "c-780",
+      "Camping-Lights": "c-785",
+      "Camping-Tools": "c-786",
+      "Kids-Tents": "c-793",
+      "Sleeping-Bags,-Stretchers-and-Mattresses": "c-800"
+    },
+    "Coolers-and-Ice-Packs": {
+      "Cooler-Bags": "c-1050",
+      "Cooler-Boxes": "c-1051",
+      "Ice-Packs": "c-1052",
+      "Picnic-Bags": "c-1053"
+    },
+    "Gazebos": {
+      "Beach-Gazebos": "c-462",
+      "Outdoor-and-Event-Gazebos": "c-1749"
+    },
+    "Garden": {
+      "Fencing,-Mesh-and-Canes": "c-1276",
+      "Flower-and-Plant-Pots": "c-1334",
+      "Garden-and-Irrigation-Accessories": "c-1705",
+      "Garden-Insecticides": "c-1709",
+      "Garden-Tools": "c-1710",
+      "Hoses,-Sprinklers-and-Watering-Cans": "c-1712",
+      "Lawnmowers-and-Trimmers": "c-1713",
+      "Potting-Soil,-Compost-and-Plant-Food": "c-1715",
+      "Pesticides": "c-66002"
+    },
+    "Jugs-and-Water-Carriers": {
+      "Picnic-and-Outdoor-Jugs": "c-1874",
+      "Thermal-Jugs-and-Mugs": "c-1878",
+      "Water-Canisters-and-Bottles": "c-1881"
+    },
+    "Outdoor-Cookware": {
+      "Cast-Iron-Pots-and-Potjies": "c-852",
+      "Compact-Outdoor-Cookware": "c-1005",
+      "Gas-Cookers": "c-1737"
+    },
+    "Outdoor-Furniture": {
+      "Camping-Chairs-and-Tables": "c-761",
+      "Patio-Furniture": "c-2057"
+    },
+    "Pool": {
+      "Kids-Pools": "c-1906",
+      "Pool-Accessories": "c-2223",
+      "Pool-Chemicals": "c-2225",
+      "Pool-Cleaners-and-Devices": "c-2815",
+      "Pool-Cleaning-Tools-and-Materials": "c-2816"
+    },
+    "Umbrellas": {
+      "Beach-Umbrellas": "c-478",
+      "Patio-and-Garden-Umbrellas": "c-2055",
+      "Rain-Umbrellas": "c-2819"
+    }
+  },
+  "Pets": {
+    "Collars-and-Leads": {
+      "Cat-Collars": "c-854",
+      "Dog-Collars": "c-1023",
+      "Dog-Harnesses": "c-1027",
+      "Dog-Leads": "c-1029"
+    },
+    "Food-and-Water-Dispensers": {
+      "Food-and-Water-Dispenser-Accessories": "c-1347"
+    },
+    "Fish-and-Aqua-Products": {
+      "Fish-Tanks-and-Accesories": "c-1298"
+    },
+    "Grooming": {
+      "Pet-Shampoo-and-Conditioner": "c-1777"
+    },
+    "Kennels-and-Carriers": {
+      "Dog-Kennels": "c-1193"
+    },
+    "Pet-Bedding-and-Comfort": {
+      "Luxury-and-Foam-Sided-Pet-Beds": "c-1944",
+      "Pet-Cushions-and-Blankets": "c-2080"
+    },
+    "Pet-Bowls": {
+      "Plastic-Pet-Bowls": "c-2154",
+      "Stainless-Steel-Pet-Bowls": "c-2075"
+    },
+    "Pet-Chews-and-Treats": {
+      "Dog-Biscuits": "c-1190",
+      "Cat-Snacks-and-Treats": "c-848",
+      "Pet-Dental-Chews-and-Bones": "c-2099",
+      "Dog-Chewy-Snacks": "c-1191"
+    },
+    "Pet-Food": {
+      "Bird-Food": "c-557",
+      "Dry-Cat-Food": "c-1212",
+      "Dry-Dog-Food": "c-1215",
+      "Fish-Food": "c-1282",
+      "Rodent-Food": "c-2117",
+      "Wet-Cat-Food": "c-2120",
+      "Wet-Dog-Food": "c-2126"
+    },
+    "Pet-Health-and-Hygiene": {
+      "Pet-Pharmaceuticals": "c-2103",
+      "Pet-Repellent-Spray": "c-2104",
+      "Pet-Vitamins": "c-2137"
+    },
+    "Pet-Toys": {
+      "Dog-and-Cat-Dental-Toys": "c-1198",
+      "Dog-Balls,-Ropes-and-Soft-Toys": "c-1188",
+      "Dog-and-Cat-Plushies": "c-1189",
+      "General-Pet-Toys": "c-1738"
+    },
+    "Pet-Waste-Disposal": {
+      "Cat-Litter-and-Litter-Boxes": "c-849"
+    }
+  },
+  "Toys": {
+    "Action-Figures": {
+      "Action-Figurines": "c-44",
+      "Static-Figurines": "c-76",
+      "Animal-and-Wildlife-Figurines": "c-77"
+    },
+    "Beach-and-Pool": {
+      "Beach-Balls-and-Pool-Balls": "c-477",
+      "Kids-Beach-Toys-and-Buckets": "c-484",
+      "Pool-Toys-and-Inflatables": "c-487"
+    },
+    "Board-Games": {
+      "Kids-Board-Games": "c-621",
+      "Dice-Games": "c-623",
+      "Playing-Cards-and-Card-Games": "c-626",
+      "Puzzle-Board-Games": "c-633",
+      "Role-Playing-Board-Games": "c-634",
+      "Trivia-and-Strategy-Board-Games": "c-637"
+    },
+    "Building-Blocks": {
+      "Advanced-Building-Blocks": "c-38",
+      "Baby-Building-Blocks": "c-180",
+      "Building-Block-Sets": "c-751"
+    },
+    "Cars": {
+      "Baby-Toy-Cars-and-Bikes": "c-318",
+      "Die-Cast-Toy-Cars-and-Bikes": "c-863",
+      "Model-Cars-and-Bikes": "c-866",
+      "Remote-Control-Cars": "c-869"
+    },
+    "Dolls": {
+      "Doll-Accessories": "c-1202",
+      "Fashion-Dolls": "c-1203",
+      "Interactive-Dolls": "c-1204",
+      "Toddler-Dolls": "c-1206"
+    },
+    "Play-Sets": {
+      "Action-Play-Sets": "c-19",
+      "Doll-Play-Sets": "c-1195",
+      "Outdoor-Play-Sets": "c-2011",
+      "Toddler-Play-Sets": "c-2165",
+      "Toy-Car-and-Bike-Play-Sets": "c-2169",
+      "Fancy-Dress-Play-Sets": "c-54012"
+    },
+    "Puzzles": {
+      "Adult-Puzzles": "c-55",
+      "Kids-Puzzles": "c-1904"
+    },
+    "Ride-On-Toys": {
+      "Peddle-Toy-Cars": "c-2065",
+      "Push-Cars-and-Bikes": "c-2196"
+    },
+    "Soft-Toys": {
+      "Animal-Plush-Toys": "c-54",
+      "Character-Plush-Toys": "c-885",
+      "Interactive-Plush-Toys": "c-1855"
+    }
+  },
+  "Clothing-and-Footwear": {
+    "Adult-Clothing": {
+      "Jackets,-Sweat-Tops-and-Hoodies": "c-106",
+      "Knitwear": "c-107",
+      "Shorts": "c-109",
+      "Sleepwear": "c-110",
+      "Tops,-Shirts-and-T-Shirts": "c-113"
+    },
+    "Footwear": {
+      "Formal-Footwear": "c-1342",
+      "Slippers": "c-54016"
+    },
+    "Garden-and-Outdoor": {
+      "Gardening-Gloves-and-Hand-Protection": "c-1112"
+    },
+    "Housecoats-and-Overalls": {
+      "Aprons-and-Clothing-Protection": "c-84"
+    },
+    "Kids-and-Teens-Clothing": {
+      "Kids-and-Teens-Sleepwear": "c-1143",
+      "Kids-and-Teens-Swimwear": "c-1145"
+    },
+    "Stockings,-Socks-and-Tights": {
+      "Leggings": "c-1149",
+      "Pantyhose": "c-1150",
+      "Socks": "c-1153",
+      "Tights": "c-1160"
+    },
+    "School-Uniforms": {
+      "School-Shoes": "c-1164",
+      "School-Socks-and-Hosiery": "c-1166"
+    },
+    "Underwear-and-Socks": {
+      "Adult-Socks": "c-99",
+      "Panties": "c-1178"
+    }
+  },
+  "Electronics": {
+    "Camera": {
+      "Compact-Cameras": "c-799",
+      "Digital-Cameras": "c-804"
+    },
+    "Cellphone-and-Tablet": {
+      "Cellphones": "c-867",
+      "Cellphone-Accessories-and-Covers": "c-870",
+      "Kids-Tablets": "c-873",
+      "Mobile-Routers": "c-874",
+      "Sim-Cards": "c-875",
+      "Tablets": "c-876",
+      "Tablet-Accessories-and-Covers": "c-877"
+    },
+    "Computing": {
+      "Computer-Monitors": "c-1026",
+      "Computer-Peripherals-and-Accessories": "c-1028",
+      "Hard-Drives-and-Flash-Drives": "c-1031",
+      "Keyboards-and-Mice": "c-1033",
+      "Laptop-and-Notebook-Computers": "c-1037",
+      "Modems,-Routers-and-Networking": "c-1038"
+    },
+    "Headphones-and-Portable-Speakers": {
+      "Bluetooth-and-Portable-Speakers": "c-610",
+      "Bluetooth-Audio-Transmitters-and-Receivers": "c-613",
+      "Headphones-and-Earphones": "c-1417",
+      "Mobile-Audio-Cables-and-Connectors": "c-1422",
+      "Heaphones-and-Earphones": "c-40000"
+    },
+    "Portable-Electronics": {
+      "Powerbanks-and-Portable-Chargers": "c-1440",
+      "Calculators": "c-75000",
+      "Portable-Media-and-Disc-Players": "c-77002"
+    },
+    "Home-Audio-and-Video": {
+      "Audio-and-Video-Cabling-and-Connectors": "c-2",
+      "Audio-and-Video-Components": "c-17",
+      "Digital-Satellite-Decoders,-Dishes-and-Accessories": "c-1183",
+      "Disc-and-Media-Players": "c-1199",
+      "Home-Audio-and-Entertainment-Systems": "c-1451",
+      "Radios-and-Alarm-Clocks": "c-1455",
+      "Soundbars-and-Speakers": "c-1459",
+      "TVs": "c-1461",
+      "TV-Accessories": "c-77000"
+    },
+    "Video-Games-and-Consoles": {
+      "Video-Game-Accessories": "c-1469",
+      "Video-Game-Consoles": "c-1471",
+      "Video-Games": "c-1489"
+    }
+  },
+  "Gifts": {
+    "Candles": {
+      "Decorative-Candles": "c-801",
+      "Scented-Candles": "c-806",
+      "Standard-Candles": "c-812"
+    },
+    "Flowers-and-Plants": {
+      "Cut-Flowers-and-Bouquets": "c-1101",
+      "Flower-and-Plant-Food": "c-1340",
+      "Special-Plants": "c-1344",
+      "Potted-Plants": "c-1346"
+    },
+    "Greeting-Cards": {
+      "General-Greeting-Cards": "c-1742",
+      "Holiday-Greeting-Cards": "c-1849"
+    },
+    "Party-and-Decorations": {
+      "Balloons": "c-380",
+      "Cake-Candles": "c-743",
+      "General-Decorations": "c-1736",
+      "Holiday-Decorations": "c-1862",
+      "Party-Accessories": "c-1864",
+      "Party-Decorations": "c-1865",
+      "Party-Hats-and-Masks": "c-1868",
+      "Party-Paperware": "c-1869",
+      "Party-Packs": "c-1870",
+      "Party-Plates,-Straws-and-Cups": "c-1871",
+      "Streamers-and-Confetti": "c-1877"
+    },
+    "Wrapping-and-Gifting": {
+      "Gift-Cards": "c-71009"
+    }
+  }
+}
